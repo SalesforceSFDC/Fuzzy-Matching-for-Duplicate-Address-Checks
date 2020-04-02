@@ -1,5 +1,5 @@
 # Fuzzy-Matching-for-Duplicate-Address-Checks
-
+* https://salesforce.stackexchange.com/questions/9619/fuzzy-matching-for-duplicate-address-checks?newreg=ec3ab7e0f5de47428d8bfc2bb7fe9557
 ## Helper Functions
 ```java
 // Convert nulls to empty strings
